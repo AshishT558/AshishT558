@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Ashish 👋
+- 👟 I'm currently working on [Kicks](https://github.com/AshishT558/Kicks-App)
+- 📘 Studying CS @ NEU
 
 <!--
 **AshishT558/AshishT558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

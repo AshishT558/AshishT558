@@ -1,5 +1,5 @@
 ## Hi! I'm Ashish 👋
-- 👟 I'm currently working on [Kicks](https://github.com/AshishT558/Kicks-App)
+- 👟 I'm currently working on [Kicks](https://www.justkicks.online/)
 - 📘 Studying CS @ NEU
 - 📈 Concentration in AI/ML
 - 📁 My [Portfolio](https://www.ashishthomas.dev/)

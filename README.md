@@ -1,8 +1,8 @@
 ## Hi! I'm Ashish 👋
-- 👟 I'm currently working on [Kicks](https://www.justkicks.online/)
+- 👟 I'm currently working on [Kicks](https://kicks-application.vercel.app/)
 - 📘 Studying CS @ NEU
 - 📈 Concentration in AI/ML
-- 📁 My [Portfolio](https://www.ashishthomas.dev/)
+- 📁 My [Portfolio](https://ashishthomas.vercel.app/)
 - Reach me at thomas.ash@northeastern.edu
 
 <!--
